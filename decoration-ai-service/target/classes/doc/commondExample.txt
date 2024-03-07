@@ -1,0 +1,2 @@
+# 表空间状态
+http://jujia-vearch-router.vectorbase.svc.sq01.n.jd.local/_cluster/health?db=db&space=wiki_space
